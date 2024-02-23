@@ -1,6 +1,7 @@
 
+![Comp 1_1](https://github.com/Fiama5/Fiama5/assets/105252230/93ddbebe-eec8-4725-8955-73e93e4dc401)
 
-![Comp 1](https://github.com/Fiama5/Fiama5/assets/105252230/0283f0bb-896d-4366-b6cb-5e390d61a3f6)
+
 <h1>Mis estudios</h1>
 <h2>Técnica Universitaria en Programación</h2>
 <p>
