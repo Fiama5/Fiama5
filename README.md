@@ -1,6 +1,13 @@
-<div aling = "center">
-    <h1 aling = "center">Hola, soy Fiama 👋</h1>
+<div align="center">
+    <h1 align="center">Hola, soy Fiama 👋</h1>
 </div>
+
+<p align="center">
+    <img src="https://github.com/Fiama5/Fiama5/issues/1#issuecomment-1961488300" alt="Texto Alternativo">
+</p>
+
+
+
 <!--
 **Fiama5/Fiama5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
