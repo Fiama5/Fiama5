@@ -58,6 +58,10 @@ PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-t
 Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 
+<h2>Ponte en contacto conmigo</h2>
+<a href="mailto:fiamaarrua5@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/gmail:  Fiama Arrua-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+    </a>
 <!--
 **Fiama5/Fiama5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
