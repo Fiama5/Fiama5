@@ -1,11 +1,5 @@
-<div align="center">
-    <h1 align="center">Hola, soy Fiama 👋</h1>
-</div>
 
-<p align="center">
-    <img src="https://github.com/Fiama5/Fiama5/issues/1#issuecomment-1961488300" alt="Texto Alternativo">
-</p>
-
+![Comp 1](https://github.com/Fiama5/Fiama5/assets/105252230/0283f0bb-896d-4366-b6cb-5e390d61a3f6)
 
 
 <!--
