@@ -18,11 +18,14 @@
 
 <br>
 
+<div style="display: flex;">
 <h1>Mis estadistícas</h1>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fiama5&show_icons=true&hide_border=true&title_color=FFFFF&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fiama5&text_color=FFFFFF&bg_color=000000&title_color=FFFFF4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="center" style="flex: 1"; src="https://github-readme-stats.vercel.app/api?username=Fiama5&show_icons=true&hide_border=true&title_color=FFFFF&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center"  style="flex: 1"; height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fiama5&text_color=FFFFFF&bg_color=000000&title_color=FFFFF4&langs_count=15&layout=compact&hide_border=true" />
 </p>
+</div>
+  
 <h1>Técnologias que conozco</h1>
 <br>
 <h2>Lenguajes de Programación</h2>
