@@ -13,7 +13,7 @@
 
 <h2>Ingeniería en Sistemas de información</h2>
 <p>
-    Actualmente estoy cursando el curso de pre-ingreso en la Universidad Técnologica Nacional Facultad Regional de Venado Tuerto
+    Actualmente estoy cursando el primer año en la Universidad Técnologica Nacional Facultad Regional de Venado Tuerto
 </p>
 
 <br>
