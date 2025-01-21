@@ -1,3 +1,7 @@
+
+![Comp 1_1](https://github.com/Fiama5/Fiama5/assets/105252230/93ddbebe-eec8-4725-8955-73e93e4dc401)
+
+
 <h1>Mis estudios</h1>
 <h2>Técnica Universitaria en Programación</h2>
 <p>
@@ -14,6 +18,14 @@
 
 <br>
 
+<div style="display: flex;">
+<h1>Mis estadistícas</h1>
+<p align="center">
+    <img align="center" style="flex: 1"; src="https://github-readme-stats.vercel.app/api?username=Fiama5&show_icons=true&hide_border=true&title_color=FFFFF&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center"  style="flex: 1"; height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fiama5&text_color=FFFFFF&bg_color=000000&title_color=FFFFF4&langs_count=15&layout=compact&hide_border=true" />
+</p>
+</div>
+  
 <h1>Técnologias que conozco</h1>
 <br>
 <h2>Lenguajes de Programación</h2>
@@ -60,4 +72,3 @@ Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&log
 <a href="mailto:fiamaarrua5@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail:  Fiama Arrua-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
     </a>
-
